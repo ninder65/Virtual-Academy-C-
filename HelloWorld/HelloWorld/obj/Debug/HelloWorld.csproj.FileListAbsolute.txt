@@ -1,1 +1,7 @@
 E:\visual code\visual Academy\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
