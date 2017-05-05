@@ -1,0 +1,5 @@
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\Arrays\bin\Debug\Arrays.exe.config
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\Arrays\bin\Debug\Arrays.exe
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\Arrays\bin\Debug\Arrays.pdb
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\Arrays\obj\Debug\Arrays.exe
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\Arrays\obj\Debug\Arrays.pdb

@@ -1,0 +1,6 @@
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\Decision statement\bin\Debug\Decision statement.exe.config
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\Decision statement\bin\Debug\Decision statement.exe
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\Decision statement\bin\Debug\Decision statement.pdb
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\Decision statement\obj\Debug\Decision statement.exe
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\Decision statement\obj\Debug\Decision statement.pdb
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\Decision statement\obj\Debug\Decision statement.csprojResolveAssemblyReference.cache

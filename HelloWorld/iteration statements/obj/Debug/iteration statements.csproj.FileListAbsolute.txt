@@ -1,0 +1,6 @@
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\iteration statements\bin\Debug\iteration statements.exe.config
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\iteration statements\bin\Debug\iteration statements.exe
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\iteration statements\bin\Debug\iteration statements.pdb
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\iteration statements\obj\Debug\iteration statements.csprojResolveAssemblyReference.cache
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\iteration statements\obj\Debug\iteration statements.exe
+E:\visual code\visual Academy\Virtual-Academy-C-\HelloWorld\iteration statements\obj\Debug\iteration statements.pdb
